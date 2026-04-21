@@ -26,4 +26,4 @@ Vecka 16:
 Började jobba med HTML. Fortfarande krångel med att matcha datorerna men vi lyckades komma igång.
 
 Vecka 17: 
-Vi startade ett CSS dokument och fortsatt arbete på HTML.
+Vi startade ett CSS dokument och fortsatt arbete på HTML. Vi har fixat cards på oss och jobbat visare med annat HTML och CSS.
