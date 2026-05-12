@@ -27,3 +27,8 @@ Började jobba med HTML. Fortfarande krångel med att matcha datorerna men vi ly
 
 Vecka 17: 
 Vi startade ett CSS dokument och fortsatt arbete på HTML. Vi har fixat cards på oss och jobbat visare med annat HTML och CSS.
+
+Vecka 18:
+Ingen Webbutveckling :(
+
+Vecka 19:
