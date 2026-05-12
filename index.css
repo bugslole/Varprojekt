@@ -1,5 +1,19 @@
-
-
 body {
-    background-color:3c0e17;
+    background-color: rgb(207, 107, 79);
 }
+ul{
+    box-sizing: border-box;
+    background-color: white;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -15px;
+    text-align: center;
+    font-size: 4vw;
+    border-bottom: 6px dotted black;
+}
+ul{
+    text-align: row;
+    text-align: center;
+}
+ 
