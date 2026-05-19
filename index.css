@@ -1,6 +1,5 @@
 body {
     background-color: rgb(207, 107, 79);
-    -top: none;
 }
 ul{
     box-sizing: border-box;
@@ -15,4 +14,5 @@ h1{
 }
 ul{
     text-align: row;
+    text-align: center;
 }
