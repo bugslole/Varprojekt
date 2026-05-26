@@ -13,6 +13,9 @@ h1{
     border-bottom: 6px dotted black;
 }
 ul{
-    text-align: row;
-    text-align: center;
+    display:flex;
+    gap: 100px;
+    display: flex; justify-content: center;
+    display: flex; align-content: center;
+    
 }
