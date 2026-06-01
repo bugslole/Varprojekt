@@ -19,7 +19,33 @@ body {
 }
 
 
+.topbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  height: 60px;
+  width: 100%;
+}
 
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+
+.logo img {
+  height: 50px; 
+}
 
 h1, h2, h4 {
   font-family: "Italiana", serif;
