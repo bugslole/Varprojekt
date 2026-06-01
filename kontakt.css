@@ -47,10 +47,15 @@ body {
   overflow: hidden; /* viktig → stoppar bild från att sticka ut */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
+  cursor: pointer;
 }
 
 /* BILD FIX (DET VIKTIGA!) */
 .card img {
   width: 100%;      /* gör att bilden följer cardens bredd */
   height: auto;     /* behåller proportioner */
+}
+.card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
