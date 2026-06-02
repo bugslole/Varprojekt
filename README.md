@@ -32,3 +32,11 @@ Vecka 18:
 Ingen Webbutveckling :(
 
 Vecka 19:
+Började på kontakt och meny.
+
+Vecka 20:
+Jag uppdaterade menyn, la till varor och letade bilder på unsplash.
+
+Vecka 21: Slutförde HTML och CSS.
+
+Vecka 22: Validering.
