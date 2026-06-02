@@ -1,17 +1,17 @@
-/* RESET */
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-/* BODY */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
 }
 
-/* NAVBAR */
+
 .navbar {
   background-color: #333;
   padding: 15px;
@@ -30,30 +30,30 @@ body {
   font-weight: bold;
 }
 
-/* CARD CONTAINER */
+
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* centrerar cards */
+  justify-content: center; 
   gap: 20px;
   padding: 20px;
 }
 
-/* CARD */
+
 .card {
   width: 220px;
   background: white;
   border-radius: 12px;
-  overflow: hidden; /* viktig → stoppar bild från att sticka ut */
+  overflow: hidden; 
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
   cursor: pointer;
 }
 
-/* BILD FIX (DET VIKTIGA!) */
+
 .card img {
-  width: 100%;      /* gör att bilden följer cardens bredd */
-  height: auto;     /* behåller proportioner */
+  width: 100%;      
+  height: auto;     
 }
 .card:hover {
   transform: translateY(-8px) scale(1.02);
